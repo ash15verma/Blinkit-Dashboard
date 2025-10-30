@@ -9,3 +9,9 @@ This project focuses on analyzing Blinkit’s sales and operational performance 
   Profit Margin and Average Order Value (AOV) calculated using DAX
   Interactive filters and slicers for dynamic exploration
   Automated data refresh for up-to-date reporting
+
+# Business Impact
+  
+  Improved visibility into Blinkit’s overall sales performance
+  Helped identify top-performing categories and underperforming regions
+  Supported data-driven decision-making for business growth and efficiency
